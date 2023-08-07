@@ -1,0 +1,15 @@
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.exe
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.deps.json
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.runtimeconfig.json
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.dll
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.pdb
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.csproj.AssemblyReference.cache
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.AssemblyInfoInputs.cache
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.AssemblyInfo.cs
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.dll
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\refint\ContaCorrente.dll
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.pdb
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.genruntimeconfig.cache
+C:\Users\menuu\source\repos\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ref\ContaCorrente.dll
