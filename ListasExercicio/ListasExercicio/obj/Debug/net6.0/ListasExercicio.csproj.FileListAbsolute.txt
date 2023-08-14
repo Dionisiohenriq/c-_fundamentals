@@ -1,0 +1,15 @@
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ListasExercicio.csproj.AssemblyReference.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ListasExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ListasExercicio.AssemblyInfoInputs.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ListasExercicio.AssemblyInfo.cs
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ListasExercicio.csproj.CoreCompileInputs.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\bin\Debug\net6.0\ListasExercicio.exe
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\bin\Debug\net6.0\ListasExercicio.deps.json
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\bin\Debug\net6.0\ListasExercicio.runtimeconfig.json
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\bin\Debug\net6.0\ListasExercicio.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\bin\Debug\net6.0\ListasExercicio.pdb
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ListasExercicio.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\refint\ListasExercicio.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ListasExercicio.pdb
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ListasExercicio.genruntimeconfig.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\ListasExercicio\ListasExercicio\obj\Debug\net6.0\ref\ListasExercicio.dll

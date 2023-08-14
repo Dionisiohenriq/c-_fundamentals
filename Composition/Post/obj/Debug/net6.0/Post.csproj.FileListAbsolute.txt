@@ -1,0 +1,15 @@
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\bin\Debug\net6.0\Post.exe
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\bin\Debug\net6.0\Post.deps.json
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\bin\Debug\net6.0\Post.runtimeconfig.json
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\bin\Debug\net6.0\Post.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\bin\Debug\net6.0\Post.pdb
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\Post.csproj.AssemblyReference.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\Post.AssemblyInfoInputs.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\Post.AssemblyInfo.cs
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\Post.csproj.CoreCompileInputs.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\Post.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\refint\Post.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\Post.pdb
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\Post.genruntimeconfig.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Post\obj\Debug\net6.0\ref\Post.dll

@@ -1,0 +1,15 @@
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\Composition2.csproj.AssemblyReference.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\Composition2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\Composition2.AssemblyInfoInputs.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\Composition2.AssemblyInfo.cs
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\Composition2.csproj.CoreCompileInputs.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\bin\Debug\net6.0\Composition2.exe
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\bin\Debug\net6.0\Composition2.deps.json
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\bin\Debug\net6.0\Composition2.runtimeconfig.json
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\bin\Debug\net6.0\Composition2.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\bin\Debug\net6.0\Composition2.pdb
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\Composition2.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\refint\Composition2.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\Composition2.pdb
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\Composition2.genruntimeconfig.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Composition2\obj\Debug\net6.0\ref\Composition2.dll

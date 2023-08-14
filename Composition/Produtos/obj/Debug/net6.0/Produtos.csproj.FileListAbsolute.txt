@@ -1,0 +1,15 @@
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\bin\Debug\net6.0\Produtos.exe
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\bin\Debug\net6.0\Produtos.deps.json
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\bin\Debug\net6.0\Produtos.runtimeconfig.json
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\bin\Debug\net6.0\Produtos.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\bin\Debug\net6.0\Produtos.pdb
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\Produtos.csproj.AssemblyReference.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\Produtos.AssemblyInfo.cs
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\Produtos.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\refint\Produtos.dll
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\Produtos.pdb
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\Produtos.genruntimeconfig.cache
+C:\Users\menuu\OneDrive\Documentos\Dev\c#_fundamentals\Composition\Produtos\obj\Debug\net6.0\ref\Produtos.dll
