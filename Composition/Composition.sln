@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produtos", "Produtos\Produt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometricFigures", "GeometricFigures\GeometricFigures.csproj", "{8D670B56-A952-42C4-929B-AFC24588D0F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxPayers", "TaxPayers\TaxPayers.csproj", "{8C24EC45-F52E-4283-9DEA-730601587AAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxPayers", "TaxPayers\TaxPayers.csproj", "{8C24EC45-F52E-4283-9DEA-730601587AAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{C3CF59A7-F23D-4208-B0AC-CBC69CD8827D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{C3CF59A7-F23D-4208-B0AC-CBC69CD8827D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xadrez-console", "xadrez-console\xadrez-console.csproj", "{BBB841FB-A065-4A06-9613-7DB8D0F388CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C3CF59A7-F23D-4208-B0AC-CBC69CD8827D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3CF59A7-F23D-4208-B0AC-CBC69CD8827D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3CF59A7-F23D-4208-B0AC-CBC69CD8827D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB841FB-A065-4A06-9613-7DB8D0F388CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB841FB-A065-4A06-9613-7DB8D0F388CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB841FB-A065-4A06-9613-7DB8D0F388CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB841FB-A065-4A06-9613-7DB8D0F388CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
