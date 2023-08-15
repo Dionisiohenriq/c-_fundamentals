@@ -6,27 +6,17 @@ using System.Threading.Tasks;
 
 namespace tabuleiro
 {
-    public class Posicao
+    public class Tabuleiro
     {
         public int Linha { get; set; }
         public int Coluna { get; set; }
+        private Peca[,] Pecas;
 
-        public Posicao()
-        {
-            
-        }
-
-        public Posicao(int linha, int coluna)
+        public Tabuleiro(int linha, int coluna)
         {
             Linha = linha;
             Coluna = coluna;
-        }
-
-        public override string ToString()
-        {
-            return Linha
-                + ", "
-                + Coluna;
+            Pecas = new Peca[Linha, Coluna];
         }
     }
 }
