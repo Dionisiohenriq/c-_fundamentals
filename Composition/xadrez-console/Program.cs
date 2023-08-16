@@ -4,18 +4,23 @@ using xadrez_console;
 
 try
 {
-    Posicao p = new Posicao(3, 4);
+    PartidaDeXadrez partida = new PartidaDeXadrez();
+    while (!partida.Terminada)
+    {
+        Console.Clear();
+        Tela.ImprimirTabuleiro(partida.tab);
 
-    Tabuleiro tab = new Tabuleiro(8, 8);
+        Console.WriteLine();
 
-    tab.ColocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-    tab.ColocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 7));
-    tab.ColocarPeca(new Rei(tab, Cor.Preta), new Posicao(0, 2));
+        Console.Write("Origem: ");
+        Posicao origem = Tela.LerPosicaoXadrez().ToPosicao();
 
-    tab.ColocarPeca(new Torre(tab, Cor.Branca), new Posicao(3, 5));
+        Console.Write("Destino: ");
+        Posicao destino = Tela.LerPosicaoXadrez().ToPosicao();
 
-    Tela.ImprimirTabuleiro(tab);
-
+        partida.ExecutaMovimento(origem, destino);
+    }
+   
 }
 catch (TabuleiroException e)
 {
