@@ -10,7 +10,7 @@ try
         try
         {
             Console.Clear();
-            Tela.ImprimirPartida(PartidaDeXadrez partida)
+            Tela.ImprimirPartida(partida);
 
             Console.Write("Origem: ");
             Posicao origem = Tela.LerPosicaoXadrez().ToPosicao();
