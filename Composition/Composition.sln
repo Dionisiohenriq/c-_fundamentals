@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxPayers", "TaxPayers\TaxP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{C3CF59A7-F23D-4208-B0AC-CBC69CD8827D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xadrez-console", "xadrez-console\xadrez-console.csproj", "{BBB841FB-A065-4A06-9613-7DB8D0F388CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xadrez-console", "xadrez-console\xadrez-console.csproj", "{BBB841FB-A065-4A06-9613-7DB8D0F388CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get_Hash_Code_Equals", "Get_Hash_Code_Equals\Get_Hash_Code_Equals.csproj", "{99E66F4E-B567-4C30-ACE6-4622E1FABBCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{BBB841FB-A065-4A06-9613-7DB8D0F388CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBB841FB-A065-4A06-9613-7DB8D0F388CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBB841FB-A065-4A06-9613-7DB8D0F388CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E66F4E-B567-4C30-ACE6-4622E1FABBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E66F4E-B567-4C30-ACE6-4622E1FABBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E66F4E-B567-4C30-ACE6-4622E1FABBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E66F4E-B567-4C30-ACE6-4622E1FABBCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
