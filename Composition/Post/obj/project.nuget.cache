@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IxGzqqPw6MYJQsBQRM7LfvL9VIPRj69D2pQ0Zmtby7pA395f4487wv0OqVJqh42ANyt7V80VJxbIXltiKxcNGg==",
+  "dgSpecHash": "cGEzfJhQWYIZQVZQMp+AiaKfuy/lE1qLM5BZaMsla+W6T86p64cNcT8Db5yiQjOgKV+I+lX9rK9IosGZyjbU+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\menuu\\OneDrive\\Documentos\\Dev\\c#_fundamentals\\Composition\\Post\\Post.csproj",
+  "projectFilePath": "C:\\Dev\\c-_fundamentals\\Composition\\Post\\Post.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
