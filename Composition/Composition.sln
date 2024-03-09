@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get_Hash_Code_Equals", "Get
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet_SortedSet", "HashSet_SortedSet\HashSet_SortedSet.csproj", "{CF443A8B-8F40-4AC6-A05D-042038FEBE46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash_Comparison", "Hash_Comparison\Hash_Comparison.csproj", "{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{CF443A8B-8F40-4AC6-A05D-042038FEBE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF443A8B-8F40-4AC6-A05D-042038FEBE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF443A8B-8F40-4AC6-A05D-042038FEBE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
