@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet_SortedSet", "HashSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash_Comparison", "Hash_Comparison\Hash_Comparison.csproj", "{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set_Exercice", "Set_Exercice\Set_Exercice.csproj", "{ECF063F0-F0F9-416C-BE3C-A01D018CD975}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB51895B-4BD1-4B6E-BDF0-F5B25BF01D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF063F0-F0F9-416C-BE3C-A01D018CD975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF063F0-F0F9-416C-BE3C-A01D018CD975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF063F0-F0F9-416C-BE3C-A01D018CD975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF063F0-F0F9-416C-BE3C-A01D018CD975}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
