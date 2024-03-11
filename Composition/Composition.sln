@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash_Exercice_File_Log", "H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_SortedDictionary", "Dictionary_SortedDictionary\Dictionary_SortedDictionary.csproj", "{BC13FF56-A2B2-4633-9A9C-D966815B7420}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Exercice", "Dictionary_Exercice\Dictionary_Exercice.csproj", "{44623A98-2904-413A-996B-29C5F0F6EE06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{BC13FF56-A2B2-4633-9A9C-D966815B7420}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC13FF56-A2B2-4633-9A9C-D966815B7420}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC13FF56-A2B2-4633-9A9C-D966815B7420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44623A98-2904-413A-996B-29C5F0F6EE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44623A98-2904-413A-996B-29C5F0F6EE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44623A98-2904-413A-996B-29C5F0F6EE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44623A98-2904-413A-996B-29C5F0F6EE06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
