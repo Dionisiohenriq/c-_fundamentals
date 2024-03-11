@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash_Comparison", "Hash_Com
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Set_Exercice", "Set_Exercice\Set_Exercice.csproj", "{ECF063F0-F0F9-416C-BE3C-A01D018CD975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash_Exercice_File_Log", "Hash_Exercice_File_Log\Hash_Exercice_File_Log.csproj", "{053F68C4-725F-4402-89BD-19B9CCC82535}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash_Exercice_File_Log", "Hash_Exercice_File_Log\Hash_Exercice_File_Log.csproj", "{053F68C4-725F-4402-89BD-19B9CCC82535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_SortedDictionary", "Dictionary_SortedDictionary\Dictionary_SortedDictionary.csproj", "{BC13FF56-A2B2-4633-9A9C-D966815B7420}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{053F68C4-725F-4402-89BD-19B9CCC82535}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{053F68C4-725F-4402-89BD-19B9CCC82535}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{053F68C4-725F-4402-89BD-19B9CCC82535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC13FF56-A2B2-4633-9A9C-D966815B7420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC13FF56-A2B2-4633-9A9C-D966815B7420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC13FF56-A2B2-4633-9A9C-D966815B7420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC13FF56-A2B2-4633-9A9C-D966815B7420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
