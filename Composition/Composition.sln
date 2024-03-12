@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Set_Exercice", "Set_Exercic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash_Exercice_File_Log", "Hash_Exercice_File_Log\Hash_Exercice_File_Log.csproj", "{053F68C4-725F-4402-89BD-19B9CCC82535}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_SortedDictionary", "Dictionary_SortedDictionary\Dictionary_SortedDictionary.csproj", "{BC13FF56-A2B2-4633-9A9C-D966815B7420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary_SortedDictionary", "Dictionary_SortedDictionary\Dictionary_SortedDictionary.csproj", "{BC13FF56-A2B2-4633-9A9C-D966815B7420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Exercice", "Dictionary_Exercice\Dictionary_Exercice.csproj", "{44623A98-2904-413A-996B-29C5F0F6EE06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary_Exercice", "Dictionary_Exercice\Dictionary_Exercice.csproj", "{44623A98-2904-413A-996B-29C5F0F6EE06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension_methods", "Extension_methods\Extension_methods.csproj", "{504FFFA1-3F5A-4833-BC39-86D7E3010C8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extension_methods", "Extension_methods\Extension_methods.csproj", "{504FFFA1-3F5A-4833-BC39-86D7E3010C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparableTest", "IComparableTest\IComparableTest.csproj", "{2B202604-4E86-4DD5-9120-0AA9D42AD224}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{504FFFA1-3F5A-4833-BC39-86D7E3010C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{504FFFA1-3F5A-4833-BC39-86D7E3010C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{504FFFA1-3F5A-4833-BC39-86D7E3010C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B202604-4E86-4DD5-9120-0AA9D42AD224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B202604-4E86-4DD5-9120-0AA9D42AD224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B202604-4E86-4DD5-9120-0AA9D42AD224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B202604-4E86-4DD5-9120-0AA9D42AD224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
