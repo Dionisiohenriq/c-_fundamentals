@@ -20,12 +20,11 @@ namespace ActionExample
                 product.Price += product.Price * 0.1;
             }
 
-            //Action<Product> act = p => { p.Price += p.Price * 0.1;  };
+            Action<Product> act = p => { p.Price += p.Price * 0.1;  };
 
-            //products.ForEach(act);
-
+            products.ForEach(act);
             products.ForEach(p => { p.Price += p.Price * 0.1; });
-
+            products.ForEach(UpdatePrice);
 
 
             foreach (var item in products)
